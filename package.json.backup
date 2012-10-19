@@ -1,0 +1,8 @@
+{
+  "name": "source-gcli-jetpack",
+  "fullName": "source-gcli-jetpack",
+  "author": "Erik Vold",
+  "license": "MPL 2.0",
+  "version": "0.1",
+  "dependencies": ["gcli"]
+}
